@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🏆 Top Contributed Repositories
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet6080&layout=compact&theme=neon)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=@Abhijeet6080&layout=compact&theme=neon)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhijeet6080&icon=6&color=0)](https://visitcount.itsvg.in)
