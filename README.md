@@ -19,7 +19,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🏆 Top Contributed Repositories
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet6080&layout=compact&theme=neon)
 
 ---
