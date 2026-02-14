@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhijeet Mandal (am5185) 🎓
+# 👋 Hi, I'm Abhijeet Mandal (@Abhijeet6080) 🎓
 ### B.Tech CSE Core Student at SRMIST
 🔭 I’m currently working on: Developing the OOOPs Banner App for my B. Tech CSE Core Level 1 Practices and building Campus Compass.<br><br>👯 I’m looking to collaborate on: SRMIST technical domain projects and competitive programming teams for upcoming hackathons.<br><br>🤝 I’m looking for help with: Mastering advanced Data Structures and Algorithms, and refining my AutoCAD projection techniques.<br><br>🌱 I’m currently learning: Java Core fundamentals and standard Git branching strategies.<br><br>💬 Ask me about: Java operator precedence, Git branching strategies (feature/dev workflow), or integrating Supabase with Node.js<br><br>⚡ Fun fact: I use an EvoFox Blaze mouse with custom RGB palettes to keep my energy high during late-night lab assignments.
 
@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhijeet6080&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet6080&layout=compact&theme=neon)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhijeet6080&icon=6&color=0)](https://visitcount.itsvg.in)
