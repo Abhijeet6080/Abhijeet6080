@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhijeet Mandal (Abhijeet6080) 🎓
+# 👋 Hi, I'm Abhijeet Mandal (am5185) 🎓
 ### B.Tech CSE Core Student at SRMIST
 🔭 I’m currently working on: Developing the OOOPs Banner App for my B. Tech CSE Core Level 1 Practices and building Campus Compass.<br><br>👯 I’m looking to collaborate on: SRMIST technical domain projects and competitive programming teams for upcoming hackathons.<br><br>🤝 I’m looking for help with: Mastering advanced Data Structures and Algorithms, and refining my AutoCAD projection techniques.<br><br>🌱 I’m currently learning: Java Core fundamentals and standard Git branching strategies.<br><br>💬 Ask me about: Java operator precedence, Git branching strategies (feature/dev workflow), or integrating Supabase with Node.js<br><br>⚡ Fun fact: I use an EvoFox Blaze mouse with custom RGB palettes to keep my energy high during late-night lab assignments.
 
